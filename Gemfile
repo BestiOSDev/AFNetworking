@@ -1,5 +1,5 @@
 source "https://rubygems.org"
-
+gem "git"
 gem "fastlane"
 gem "cocoapods"
 gem "lg_pod_plugin"
