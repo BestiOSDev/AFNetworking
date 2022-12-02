@@ -3,4 +3,4 @@ gem "git"
 gem "fastlane"
 gem "cocoapods"
 gem "lg_pod_plugin"
-gem "xcode-install"
+gem "xcode-install", '1.0.0'
